@@ -236,10 +236,10 @@ msgid "Copy signature"
 msgstr "Копировать сигнатуру"
 
 msgid "Copy size"
-msgstr "Сопировать размер"
+msgstr "Копировать размер"
 
 msgid "Copy string"
-msgstr "Сопировать строку"
+msgstr "Копировать строку"
 
 msgid "Count"
 msgstr "Число"
@@ -275,7 +275,7 @@ msgid "Deep scan"
 msgstr "Глубокий анализ"
 
 msgid "Default"
-msgstr "Дефолт"
+msgstr "Стандартный"
 
 msgid "Delay import"
 msgstr "Отложить импорт"
@@ -407,7 +407,7 @@ msgid "Form"
 msgstr "Форма"
 
 msgid "Format"
-msgstr "Формат"
+msgstr "Форматировать"
 
 msgid "Functions"
 msgstr "Функции"
@@ -704,7 +704,7 @@ msgid "Region"
 msgstr "Область"
 
 msgid "Regions"
-msgstr "Регионы"
+msgstr "Области"
 
 msgid "Registers"
 msgstr "Регистры"
@@ -719,7 +719,7 @@ msgid "Reload"
 msgstr "Обновить"
 
 msgid "Relocs"
-msgstr "Relocs"
+msgstr "Таблица релокаций"
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -833,7 +833,7 @@ msgid "Show type"
 msgstr "Показать тип"
 
 msgid "Show valid"
-msgstr "Показать правильно"
+msgstr "Показать правильные"
 
 msgid "Show version"
 msgstr "Показать версию"
@@ -854,7 +854,7 @@ msgid "Size"
 msgstr "Размер"
 
 msgid "Size of image"
-msgstr "Размер изображения"
+msgstr "Размер файла"
 
 msgid "Sort elements"
 msgstr "Сортировать элементы"
@@ -878,10 +878,10 @@ msgid "Stay on top"
 msgstr "Поверх всех окон"
 
 msgid "Step into"
-msgstr "Шаг внутрь"
+msgstr "Шаг с заходом"
 
 msgid "Step over"
-msgstr "Шаг поверх"
+msgstr "Шаг с обходом"
 
 msgid "Stop"
 msgstr "Стоп"
@@ -896,7 +896,7 @@ msgid "Strings"
 msgstr "Строки"
 
 msgid "Struct and unions"
-msgstr "Структура и юнионы"
+msgstr "Структуры и объединения"
 
 msgid "Structs"
 msgstr "Структуры"
@@ -908,7 +908,7 @@ msgid "Style"
 msgstr "Стиль"
 
 msgid "Subdirectories"
-msgstr "Подкаталоги"
+msgstr "Подпапки"
 
 msgid "Subject"
 msgstr "Тема"
@@ -929,7 +929,7 @@ msgid "Table"
 msgstr "Таблица"
 
 msgid "Table of contents"
-msgstr "Таблица с содержимым"
+msgstr "Содержание"
 
 msgid "Text"
 msgstr "Текст"
@@ -953,10 +953,10 @@ msgid "The signature error"
 msgstr "Ошибка подписи"
 
 msgid "The signature is present, but not trusted"
-msgstr "Подпись присутствует, но не доверяет"
+msgstr "Подпись присутствует, но не является доверенной"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "Подпись присутствует, но специально не разрешена"
+msgstr "Подпись присутствует, но явно не разрешена"
 
 msgid "Threads"
 msgstr "Потоки"
@@ -1043,13 +1043,13 @@ msgid "msec"
 msgstr "мс"
 
 msgid "not packed"
-msgstr "несжатый"
+msgstr "неупакован"
 
 msgid "obfuscator"
 msgstr "обфускатор"
 
 msgid "packed"
-msgstr "сжатый"
+msgstr "упакован"
 
 msgid "protection"
 msgstr "защита"
